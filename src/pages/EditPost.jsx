@@ -22,6 +22,7 @@ function EditPost() {
   return post ? (
     <div className='py-8'>
         <Container>
+                            <h1 className="text-2xl font-bold text-center">UPDATE POSTS</h1>
             <PostForm post={post} />
         </Container>
     </div>
