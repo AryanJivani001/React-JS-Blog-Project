@@ -17,6 +17,7 @@ function Home() {
         return (
             <div className="w-full py-8 mt-4 text-center">
                 <Container>
+                            <h1 className="text-2xl font-bold text-center">ALL POSTS</h1>
                     <div className="flex flex-wrap">
                         <div className="p-2 w-full">
                             <h1 className="text-2xl font-bold hover:text-gray-500">
